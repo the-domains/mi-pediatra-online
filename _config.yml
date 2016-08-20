@@ -1,4 +1,3 @@
-layout_spectrum: 0.5141333201900125
 typography_spectrum: 0.7866349623072892
 color:
   brandStrength: 0.9197674868628383
@@ -6,9 +5,11 @@ color:
   saturation: 0.252671669004485
   rhythmicContrast: 0.7502621980383992
   brandColors:
-    - '#00FF00'
-    - '#55AA55'
-    - '#0081C9'
-    - '#000000'
-    - '#80FF80'
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+layout_spectrum: 0.5141333201900125
 name: Mi Pediatra Online
+description: Hazte Experta en la Salud de Tu Hijo
