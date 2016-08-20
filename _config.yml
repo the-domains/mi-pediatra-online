@@ -1,3 +1,4 @@
+layout_spectrum: 0.5141333201900125
 typography_spectrum: 0.7866349623072892
 color:
   brandStrength: 0.9197674868628383
@@ -10,7 +11,4 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-layout_spectrum: 0.5141333201900125
 name: Mi Pediatra Online
-title: Crianza Respetuosa
-description: Hazte Experta en la Salud de Tu Hijo
